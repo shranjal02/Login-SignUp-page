@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Login-SignUp-page.github.io/static/css/main.054a2932.css",
-    "main.js": "/Login-SignUp-page.github.io/static/js/main.70bdfdbe.js",
-    "index.html": "/Login-SignUp-page.github.io/index.html",
-    "main.054a2932.css.map": "/Login-SignUp-page.github.io/static/css/main.054a2932.css.map",
-    "main.70bdfdbe.js.map": "/Login-SignUp-page.github.io/static/js/main.70bdfdbe.js.map"
+    "main.css": "/Login-SignUp-page%20/static/css/main.054a2932.css",
+    "main.js": "/Login-SignUp-page%20/static/js/main.455f2024.js",
+    "index.html": "/Login-SignUp-page%20/index.html",
+    "main.054a2932.css.map": "/Login-SignUp-page%20/static/css/main.054a2932.css.map",
+    "main.455f2024.js.map": "/Login-SignUp-page%20/static/js/main.455f2024.js.map"
   },
   "entrypoints": [
     "static/css/main.054a2932.css",
-    "static/js/main.70bdfdbe.js"
+    "static/js/main.455f2024.js"
   ]
 }
